@@ -25,3 +25,5 @@ To make the most of the portrait picker you will need to edit the M_BG.lua and M
 If there are any questions, suggestions, or problems, please let me know!
 
 To Install: Just download Portrait Picker v1 .zip and follow the instructions. 
+
+Feel free to use any part of this mod as needed, however please do not distribute it without my permission.
